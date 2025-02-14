@@ -1,4 +1,4 @@
-# MRI再構成トレーニング
+# MRI再構成トレーニング（Cartesian, Parallel imaging, CS）
 
 1. 再構成トレーニング１　　
 - フーリエ変換などを学ぶ
