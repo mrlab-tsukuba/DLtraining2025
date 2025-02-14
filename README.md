@@ -6,5 +6,5 @@
 
 ## Lesson2
 
-  画像再構成の基礎
+  画像再構成の基礎（CS, Parallel imaging）
 
